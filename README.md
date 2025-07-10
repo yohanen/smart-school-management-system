@@ -112,10 +112,14 @@ You can add more screenshots to the `screenshots/` folder as needed._
 
 ## Project Structure
 smart-school-management-system/
+├── DATABASE fILE/
 ├── application/
+├── applicationForm/
 ├── assets/
+├── screenshots/
 ├── system/
-├── index.php
+├── uploads/
+├──.gitignore
+├──LICENSE
 ├── README.md
-├── .gitignore
-└── screenshots/
+└── index.pph
