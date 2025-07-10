@@ -91,13 +91,20 @@ A complete web-based School Management System developed using **CodeIgniter** fr
 
 ## Screenshots
 
+## 📸 Screenshots
+
 | Login Page | Admin Dashboard |
 |------------|-----------------|
 | ![Login](screenshots/login.png) | ![Admin](screenshots/admin-dashboard.png) |
 
-| Student Dashboard | Parent Dashboard |
-|------------------|------------------|
-| ![Student](screenshots/student-dashboard.png) | ![Parent](screenshots/parent-dashboard.png) |
+| Teacher Dashboard | Student Dashboard |
+|------------------|-------------------|
+| ![Teacher](screenshots/teacher-dashboard.png) | ![Student](screenshots/student-dashboard.png) |
+
+| Parent Dashboard |
+|------------------|
+| ![Parent](screenshots/parent-dashboard.png) |
+
 
 You can add more screenshots to the `screenshots/` folder as needed._
 
