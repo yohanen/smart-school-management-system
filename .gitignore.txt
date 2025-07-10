@@ -1,0 +1,35 @@
+# Logs and cache
+/application/logs/*
+/application/cache/*
+!application/logs/index.html
+!application/cache/index.html
+
+# Environment
+.env
+*.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Vendor / Composer
+vendor/
+composer.lock
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Misc
+*.bak
+*.swp
+*.zip
+*.tar.gz
